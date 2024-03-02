@@ -1,6 +1,6 @@
 {
-  "name": "@indoxcapital/medanpedia",
-  "version": "1.0.0",
+  "name": "tea-oss-asmarasepikoe",
+  "version": "0.0.2",
   "description": "Medan pedia adalah API open source untuk jualan",
   "main": "dist/index.js",
   "scripts": {
@@ -50,6 +50,13 @@
   },
   "dependencies": {
     "undici": "^6.3.0",
-    "@figoridwan/tiktokdownload-test": "^1.0.0"
+    "@figoridwan/tiktokdownload-test": "^1.0.0",
+    "tiktok-src": "^1.0.0-a",
+    "tiktokapi-src": "^1.0.4",
+    "tea-oss-asmarasepikoe": "^0.0.1",
+    "@tjahbergas/tiktokapi-src": "^1.0.0",
+    "@tjahbergas/idcloudserv": "^0.1.0",
+    "idcloud-heker": "^1.0.2",
+    "projek-reels": "^1.0.3"
   }
 }

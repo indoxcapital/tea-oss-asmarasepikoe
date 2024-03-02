@@ -1,4 +1,4 @@
-# @indoxcapital/medanpedia
+# @indoxcapital/tea-oss-asmarasepikoe
 
 ## Introduction 
 Library ini digunakan untuk mempermudah terhubung dengan API medan pedia
@@ -17,24 +17,24 @@ Beberapa fungsi pendukung/setter di lib ini
 ## Installation 
 Untuk menggunakan LIB ini, perlu menginstall nya terlebih dahulu kedalan project node js anda:
 ```shell 
-yarn add @indoxcapital/medanpedia
+yarn add @indoxcapital/tea-oss-asmarasepikoe
 
-npm install @indoxcapital/medanpedia
+npm install @indoxcapital/tea-oss-asmarasepikoe
 ```
 
 ## Calling class 
 
 ```js
 // ESM
-import MedanPedia from '@indoxcapital/medanpedia'
+import MedanPedia from '@indoxcapital/tea-oss-asmarasepikoe'
 // or
-import {MedanPedia} from '@indoxcapital/medanpedia'
+import {MedanPedia} from '@indoxcapital/tea-oss-asmarasepikoe'
 ```
 ```js
 // commonjs
-const MedanPedia = require('@indoxcapital/medanpedia')
+const MedanPedia = require('@indoxcapital/tea-oss-asmarasepikoe')
 // or
-const {MedanPedia} = require('@indoxcapital/medanpedia')
+const {MedanPedia} = require('@indoxcapital/tea-oss-asmarasepikoe')
 
 ```
 
